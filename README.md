@@ -14,7 +14,7 @@ Com Task:
 ```bash
 task run
 ```
-testes
+
 Sem Task:
 
 ```bash
@@ -264,13 +264,3 @@ Para regenerar os arquivos do Swagger:
 ```bash
 task swagger
 ```
-## Referências
-
-- [Code of conduct](https://www.contributor-covenant.org)
-- [MIT license](https://choosealicense.com/licenses/mit/)
-- [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/)
-- [Semantic Versioning](https://semver.org/lang/pt-BR/)
-
-## Licença
-
-Este projeto é distribuído sob a licença especificada no arquivo [LICENSE](LICENSE).
